@@ -1,2 +1,3 @@
 # test_repository
-A test repo fot BCB class
+
+This repository will be an example I use in the class.
